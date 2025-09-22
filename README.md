@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=june8yildirim" alt="june8yildirim" /></a> </p>
 
-- 🔭 I’m currently working on [Assignment Manager swiftUI]([https://gitlab.com/Cuneyt_Yildirim/vdriversfrontendapp](https://github.com/June8Yildirim/assignmentmanager))
+- 🔭 I’m currently working on [Assignment Manager swiftUI](https://github.com/June8Yildirim/assignmentmanager/)
 
-- 🌱 I’m currently learning **Swift, Tauri, DevOps**
+- 🌱 I’m currently learning **SwiftUI, DevOps**
 
 - 👨‍💻 All of my projects are available at [https://cuneyt_yildirim.gitlab.io/resumewebsite/](https://cuneyt_yildirim.gitlab.io/resumewebsite/)
 
