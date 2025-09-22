@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=june8yildirim" alt="june8yildirim" /></a> </p>
 
-- 🔭 I’m currently working on [VDrivers](https://gitlab.com/Cuneyt_Yildirim/vdriversfrontendapp)
+- 🔭 I’m currently working on [Assignment Manager swiftUI]([https://gitlab.com/Cuneyt_Yildirim/vdriversfrontendapp](https://github.com/June8Yildirim/assignmentmanager))
 
 - 🌱 I’m currently learning **Swift, Tauri, DevOps**
 
