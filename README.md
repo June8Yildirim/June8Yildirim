@@ -3,7 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=june8yildirim" alt="june8yildirim" /></a> </p>
 
-- 🔭 I’m currently working on [Assignment Manager swiftUI](https://github.com/June8Yildirim/assignmentmanager/)
+- 🔭 I’m currently working on [Online Tutor Session Management](https://github.com/June8Yildirim/assignmentmanager/)
+- 🔭 I recently completed on [Habit Tracking App swiftUI](https://github.com/June8Yildirim/habittraking/)
+- 🔭 I recently completed on [Assignment Manager swiftUI](https://github.com/June8Yildirim/assignmentmanager/)
+- 🔭 Irecently completed on [Garage Service Management](https://github.com/June8Yildirim/garagebonneprix/)
 
 - 🌱 I’m currently learning **SwiftUI, DevOps**
 
