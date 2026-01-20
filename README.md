@@ -9,11 +9,11 @@
 - 🔭 Irecently completed on [Garage Service Management](https://github.com/June8Yildirim/garagebonneprix/)
 
 - 🌱 I’m currently learning **SwiftUI, DevOps**
-
-- 👨‍💻 All of my projects are available at [https://cuneyt_yildirim.gitlab.io/resumewebsite/](https://cuneyt_yildirim.gitlab.io/resumewebsite/)
 - 👨‍💻 All of my projects are available at [(link)](https://portfolio-cuneyt.onrender.com/)
+- 👨‍💻 Alternative way to access my previous projects at [https://cuneyt_yildirim.gitlab.io/resumewebsite/](https://june8yildirim.github.io/)
 
-- 💬 Ask me about **React,NextJs,Java,Spring-Boot**
+
+- 💬 Ask me about **Java, TypeScript,React,NextJs,C++,Docker,Spring-Boot**
 
 - 📫 How to reach me **yildirim.cuneyt.it@gmail.com**
 
