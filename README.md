@@ -3,17 +3,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=june8yildirim" alt="june8yildirim" /></a> </p>
 
-- 🔭 I’m currently working on [Online Tutor Session Management](https://github.com/June8Yildirim/assignmentmanager/)
-- 🔭 I recently completed on [Habit Tracking App swiftUI](https://github.com/June8Yildirim/habittraking/)
-- 🔭 I recently completed on [Assignment Manager swiftUI](https://github.com/June8Yildirim/assignmentmanager/)
-- 🔭 Irecently completed on [Garage Service Management](https://github.com/June8Yildirim/garagebonneprix/)
+- 🔭 I’m currently working on [Booking Bee React-Native App](https://github.com/June8Yildirim/assignmentmanager/)
+- 🔭 I recently completed [Habitizer SwiftUI App](https://apps.apple.com/ca/app/habitizer/id6757522855%20Habitizer)
+- 🔭 I recently completed [Assignment Manager SwiftUI App](https://apps.apple.com/ca/app/assignment-organizer/id6757585892%20Assignment%20Organizer)
+- 🔭 I recently completed [Budgetizer SwiftUI](https://apps.apple.com/ca/app/habitizer/id6757522855%20Habitizer)
+- 🔭 I recently completed [Mechanic Appointment SwiftUI App]()
 
 - 🌱 I’m currently learning **SwiftUI, DevOps**
 - 👨‍💻 All of my projects are available at [(link)](https://portfolio-cuneyt.onrender.com/)
 - 👨‍💻 Alternative way to access my previous projects at [https://cuneyt_yildirim.gitlab.io/resumewebsite/](https://june8yildirim.github.io/)
 
 
-- 💬 Ask me about **Java, TypeScript,React,NextJs,C++,Docker,Spring-Boot**
+- 💬 Ask me about **Java, C++, TypeScript, React.JS & React-Native, SwiftUI, Docker, Spring-Boot**
 
 - 📫 How to reach me **yildirim.cuneyt.it@gmail.com**
 
