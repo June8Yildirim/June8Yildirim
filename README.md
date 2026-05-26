@@ -7,8 +7,8 @@
 - 🔭 I recently completed [Budgetizer SwiftUI](https://apps.apple.com/ca/app/habitizer/id6757522855%20Habitizer)
  
 - 🌱 I’m currently learning **SwiftUI, DevOps**
-- 👨‍💻 All of my projects are available at [(link)](https://portfolio-cuneyt.onrender.com/)
-- 👨‍💻 Alternative way to access my previous projects at [https://cuneyt_yildirim.gitlab.io/resumewebsite/](https://june8yildirim.github.io/)
+- 👨‍💻 All of my projects are available at [Summary](https://june8yildirim.github.io/portfolio/)
+- 👨‍💻 Alternative way to access my previous projects at [(alternate)](https://portfolio-cuneyt.onrender.com/)
 
 
 - 💬 Ask me about **Java, C++, TypeScript, React.JS & React-Native, SwiftUI, Docker, Spring-Boot**
