@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cuneyt</h1>
 <h3 align="center">A passionate fullstack developer from Canada</h3>
 
-- 🔭 I’m currently working on [Booking Bee React-Native App](https://github.com/June8Yildirim/assignmentmanager/)
+- 🔭 I am currently working on [Hotel Management App](https://bookingbee-lnw2.onrender.com/profile)
+- 🔭 I recently completed [Booking Bee React-Native/Web App](https://bookingbee-lnw2.onrender.com/profile)
 - 🔭 I recently completed [Habitizer SwiftUI App](https://apps.apple.com/ca/app/habitizer/id6757522855)
 - 🔭 I recently completed [Assignment Manager SwiftUI App](https://apps.apple.com/ca/app/assignment-organizer/id6757585892)
-- 🔭 I recently completed [Budgetizer SwiftUI](https://apps.apple.com/ca/app/habitizer/id6757522855%20Habitizer)
+- 🔭 I recently completed [Budgetizer SwiftUI](https://apps.apple.com/ca/app/habitizer/id6757522855)
+- 🔭 I recently completed [Hypo-Campus SwiftUI](https://apps.apple.com/ca/app/hypo-campus/id6764491127)
+- 🔭 I recently completed [Chores Auction SwiftUI](https://apps.apple.com/ca/app/chores-auction/id6759507106)
  
 - 🌱 I’m currently learning **SwiftUI, DevOps**
 - 👨‍💻 All of my projects are available at [Summary](https://june8yildirim.github.io/portfolio/)
